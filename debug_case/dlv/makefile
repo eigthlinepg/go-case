@@ -7,7 +7,7 @@ GOGET=$(GOCMD) get
 EXEC=dlv
 
 
-all: build 
+all: clean 
 
 build:
 	$(GOBUILD)

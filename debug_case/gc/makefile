@@ -7,7 +7,7 @@ GOGET=$(GOCMD) get
 EXEC=gc
 
 
-all: build 
+all: clean 
 
 build:
 	$(GOBUILD)

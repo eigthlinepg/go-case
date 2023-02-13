@@ -7,7 +7,7 @@ GOGET=$(GOCMD) get
 EXEC=endia
 
 
-all: build 
+all: clean 
 
 build:
 	$(GOBUILD)

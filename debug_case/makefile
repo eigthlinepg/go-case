@@ -1,4 +1,4 @@
-DIRAPP	=addr  dlv  endian  esacape  gc   pprof  retval 
+DIRAPP	=addr  dlv  endian  esacape  gc retval 
 MAKE 	= make
 
 all:app

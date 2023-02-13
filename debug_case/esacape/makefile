@@ -7,7 +7,7 @@ GOGET=$(GOCMD) get
 EXEC=esacape
 
 
-all: build 
+all: clean 
 
 build:
 	$(GOBUILD)
