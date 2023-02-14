@@ -1,4 +1,4 @@
-DIRAPP	=addr  dlv  endian  esacape  gc retval inline createobj quote 
+DIRAPP	=addr  dlv  endian  esacape  gc retval inline createobj quote alignment
 MAKE 	= make
 
 all:app
